@@ -1,0 +1,466 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+                "filmId": 4626,
+                "name": "何以为家",
+                "poster": "https://pic.maizuo.com/usr/movie/a47f75689b80e5ee9b29318dc7af680f.jpg",
+                "actors": [{
+                        "name": "娜丁·拉巴基",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/08becf65d23ab43fa8e297b468f35b63.jpg"
+                    },
+                    {
+                        "name": "赞恩·阿尔·拉菲亚",
+                        "role": " Zain",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c9230a5fc084ea5fd34644b838832873.jpg"
+                    },
+                    {
+                        "name": " 博鲁瓦蒂夫·特雷杰·班科尔 ",
+                        "role": " Yonas",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9842a7289b4766332913968278fa8618.jpg"
+                    },
+                    {
+                        "name": "约丹诺斯·希费罗 ",
+                        "role": " Rahil",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9c289aaabd5b89e469cd3cb944a32c2d.jpg"
+                    }
+                ],
+                "director": "娜丁·拉巴基",
+                "category": "剧情",
+                "synopsis": "法庭上，十二岁的男孩赞恩向法官状告他的亲生父母，原因是，他们给了他生命。是什么样的经历让一个孩子做出如此不可思议的举动？故事中，赞恩的父母在无力抚养和教育的状况下依然不停生育，作为家中的长子赞恩，弱小的肩膀承担了无数生活的重压。当妹妹被强行卖给商贩为妻时，赞恩愤怒离家，之后遇到一对没有合法身份的母子，相互扶持勉强生活。然而生活并没有眷顾赞恩，重重磨难迫使他做出了令人震惊的举动……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "黎巴嫩   法国   美国",
+                "language": "阿拉伯语     ",
+                "videoId": "",
+                "premiereAt": 1556496000,
+                "timeType": 3,
+                "runtime": 116,
+                "grade": "9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4671,
+                "name": "一条狗的使命2",
+                "poster": "https://pic.maizuo.com/usr/movie/47f8829da92307ff4c742998bb6b194c.jpg",
+                "actors": [{
+                        "name": "盖尔·曼库索",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c22576ae52b0c2b19833e95efa870076.jpg"
+                    },
+                    {
+                        "name": " 丹尼斯·奎德 ",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/07aae63db75bc70f0041355d0c8edd00.jpg"
+                    },
+                    {
+                        "name": "凯瑟琳·普雷斯科特",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/15ce2ffdd8586fc7c094e62ed7a3d7f1.jpg"
+                    },
+                    {
+                        "name": "刘宪华 ",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/97d5b4ac90d4f655ed45a520d4438ff1.jpg"
+                    }
+                ],
+                "director": "盖尔·曼库索",
+                "category": "剧情|喜剧|家庭",
+                "synopsis": "小狗贝利延续使命，在主人伊森的嘱托下，通过不断的生命轮回， 执着守护伊森的孙女CJ，将伊森对孙女的爱与陪伴，当做最重要的 使命和意义，最终帮助CJ收获幸福，再次回到主人伊森身边。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1558051200,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4649,
+                "name": "五月天人生无限公司",
+                "poster": "https://pic.maizuo.com/usr/movie/152c76844ac7cb2a70073b0af7fa0817.jpg",
+                "actors": [{
+                        "name": "陈信宏 ",
+                        "role": "自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1ad97c2885b9122bd94113a6295d9e04.jpg"
+                    },
+                    {
+                        "name": "石锦航",
+                        "role": "自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cf6d31ed4a7fb9d1c4afeb4b836a74b9.jpg"
+                    },
+                    {
+                        "name": "蔡升晏",
+                        "role": "自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d28077b0edf7913963ae30ceea08b49b.jpg"
+                    },
+                    {
+                        "name": "温尚翊",
+                        "role": "自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/16100836a9b19311a9f9260c522d9037.jpg"
+                    },
+                    {
+                        "name": "刘谚明",
+                        "role": "自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/84b085480b3ec9a2a32e5eeed315128c.jpg"
+                    }
+                ],
+                "director": "陈奕仁",
+                "category": "纪录片|音乐",
+                "synopsis": "一部电影拥有超过400万位演员，是怎样的体验？　　人生无限公司，每个参与过的人都是主演。　　每个“加班夜”都如此难舍难忘，　　演唱会内外，你的人生故事可有什么变与不变？五月天“人生无限公司”巡演，　　横跨四大洲、历时一年半、上百场巡回、超过400万观众，不断刷新纪录，不断创造新的感动。　　这部70亿人的自传，此刻翻越到下一章节：人生无限公司将在大银幕继续营业。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "台湾",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1558656000,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4651,
+                "name": "龙珠超：布罗利",
+                "poster": "https://pic.maizuo.com/usr/movie/2ebf504d5515d90b557c0bbfb827b5b0.jpg",
+                "actors": [{
+                        "name": "长峰达也 ",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/be15edd5c0d52a1427b0f74333627932.jpg"
+                    },
+                    {
+                        "name": "野泽雅子",
+                        "role": "孙悟空  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c7d6ac3647ab3b456feb6fd22b369eeb.jpg"
+                    },
+                    {
+                        "name": "堀川亮 ",
+                        "role": "贝吉塔",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3a5a9d2fc1ba70848e7b0265a4e6f0ff.jpg"
+                    }
+                ],
+                "director": "长峰达也",
+                "category": "动画",
+                "synopsis": "《龙珠超：布罗利》是一个全新的「赛亚人」故事，剧情将会延续即将结束的电视动画《七龙珠》，关于布罗利和悟空之间的故事。「力之大会」之后，悟空了解到宇宙中还存在着自己未曾见过的强者，于是每天都为了变得更强而不断努力修行。某天，现身于悟空和贝吉达面前的是从未见过的赛亚人「布罗利」。本该随着行星的消灭而近乎灭亡的赛亚人，为何会在地球？而从地狱中再度归来的弗利沙军也被卷入其中？三个走上了完全不同道路的赛亚人在相遇后，将引起一场壮烈的战斗……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "日本",
+                "videoId": "",
+                "premiereAt": 1558656000,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4650,
+                "name": "哥斯拉2：怪兽之王 ",
+                "poster": "https://pic.maizuo.com/usr/movie/30c2d07ca752d727a14702a89be44a50.jpg",
+                "actors": [{
+                        "name": "维拉·法米加",
+                        "role": "Dr. Emma Russell ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ea99a1dbbefc93a7d280fdfbfdec81aa.jpg"
+                    },
+                    {
+                        "name": "米莉·波比·布朗",
+                        "role": " Madison Russell",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c4371991b9c77fa0ee74e19de8190e45.jpg"
+                    },
+                    {
+                        "name": "章子怡",
+                        "role": "Dr. Chen",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/30151622ac9b396273d80dcf932a2611.jpg"
+                    }
+                ],
+                "director": "迈克尔·道赫蒂",
+                "category": "动作|科幻|冒险|灾难",
+                "synopsis": "哥斯拉将和众多大家在流行文化中所熟知的怪兽展开较量。全新故事中，研究神秘动物学的机构“帝王组织”将勇敢直面巨型怪兽，其中强大的哥斯拉也将和魔斯拉、拉顿和它的死对头——三头王者基多拉展开激烈对抗。当这些只存在于传说里的超级生物再度崛起时，它们将展开王者争霸，人类的命运岌岌可危……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1559260800,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4611,
+                "name": "大侦探皮卡丘 ",
+                "poster": "https://pic.maizuo.com/usr/movie/5abac14d599a4b78ea6161857026d293.jpg",
+                "actors": [{
+                        "name": " 罗伯·莱特曼 ",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd3dd83c92c87cdec7c3eadf73baa46d.jpg"
+                    },
+                    {
+                        "name": "瑞恩·雷诺兹",
+                        "role": " 皮卡丘",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8f8180b00ccbcf7a85c1cc44165b2bd5.jpg"
+                    },
+                    {
+                        "name": "凯瑟琳·纽顿 ",
+                        "role": " 露西",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1ddcc09e127a2867da03b7435e73ac09.jpg"
+                    },
+                    {
+                        "name": " 贾斯蒂斯·史密斯",
+                        "role": " 蒂姆·古德曼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/abf9c73de28e11c558aafaa4e7022b53.jpg"
+                    }
+                ],
+                "director": "罗伯·莱特曼",
+                "category": "喜剧|动画|冒险",
+                "synopsis": "好莱坞真人电影《大侦探皮卡丘》（暂译）讲述了蒂姆·古德曼（贾 斯 提·史密斯饰） 为寻找下落不明的父亲来到莱姆市，意外与父亲的前宝可梦搭档大侦探皮卡丘相遇，并惊讶地发现自己是唯一能听懂皮卡丘说话的人类，他们决定组队踏上揭开真相的刺激冒险之路。探案过程中他们邂逅了各式各样 的宝可梦，并意外发现了一个足以毁灭整个宝可梦宇宙的惊天阴谋。该电影改编自任天堂3DS同名游戏，由罗伯·莱特曼导演，瑞安·雷诺兹为大侦探皮卡丘配音，贾斯提斯·史密斯、凯瑟琳·纽顿等主演。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国   日本",
+                "language": "英语  日语",
+                "videoId": "",
+                "premiereAt": 1557446400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4646,
+                "name": "阿拉丁",
+                "poster": "https://pic.maizuo.com/usr/movie/81608e0012310cae249c10fecb1a0297.jpg",
+                "actors": [{
+                        "name": "盖·里奇",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/58ec877d9b61f13b5c35b1d938e810ff.jpg"
+                    },
+                    {
+                        "name": " 梅纳·玛索德",
+                        "role": " 阿拉丁  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a04a99daaac2b54860bc6a7cc4003b01.jpg"
+                    },
+                    {
+                        "name": " 娜奥米·斯科特 ",
+                        "role": "茉莉公主  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/29fc3ed151c78b34123dacc19a4f5793.jpg"
+                    },
+                    {
+                        "name": "威尔·史密斯 ",
+                        "role": " 神灯精灵  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f4344dc207f331123698e05d7b04aa79.jpg"
+                    }
+                ],
+                "director": "盖·里奇",
+                "category": "爱情|奇幻|冒险",
+                "synopsis": "作为迪斯尼一系列经典动画真人翻拍计划之一的《阿拉丁》确认将由英国导演盖·里奇执导，《大鱼》《查理和巧克力工厂》的编剧约翰·奥古斯特负责剧本。影片将会采取非线性叙事的手法。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1558656000,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4669,
+                "name": "云端之上",
+                "poster": "https://pic.maizuo.com/usr/movie/b15c4a28701dcd0b78fad7a0519b98be.jpg",
+                "actors": [{
+                        "name": " 马基德·马基迪",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0bce9c505e2d25d87adcd41e1bdd7b4c.jpg"
+                    },
+                    {
+                        "name": "艾萨·安哈尔",
+                        "role": " Amir",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/209287f37099066b21da57fd6f9a8025.jpg"
+                    },
+                    {
+                        "name": "马拉维卡·莫哈南",
+                        "role": "Tara",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8bf7df1dc14b97141d0511708497146f.jpg"
+                    },
+                    {
+                        "name": " 哥泰·高斯",
+                        "role": " Akshi",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f1cfb201d28ff5f397c64c4aacb41dd2.jpg"
+                    }
+                ],
+                "director": "马基德·马基迪",
+                "category": "剧情|家庭",
+                "synopsis": "埃米尔是一个贩毒的小混混，逃出警察的追捕后，躲藏到姐姐塔拉的洗衣房，姐姐的老板因此救了弟弟，但老板却以此威胁想要侵犯姐姐塔拉，塔拉情急之下误伤老板而被判入狱，老板重伤在医院，如果死亡，塔拉将因为过失杀人而被判终身监禁，埃米尔为了救姐姐，不得不在医院照顾这位“仇人”，得知儿子住院的母亲带着两个孙女来到医院看望，夜无归宿，埃米尔不得不照顾着祖孙三人，他们的生活乌云密布，却也感受到家人的温暖，面对生活的逆境，在云端之上闪耀着人性的光芒。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "印度  伊朗",
+                "language": "英语   印地语",
+                "videoId": "",
+                "premiereAt": 1558656000,
+                "timeType": 3,
+                "runtime": 120,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4648,
+                "name": "X战警：黑凤凰",
+                "poster": "https://pic.maizuo.com/usr/movie/de755a4d06804a97e9765b6d0e1ffbe6.jpg",
+                "actors": [{
+                        "name": "西蒙·金伯格",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3656345d8cbb89b980bc60a0c663d2f3.jpg"
+                    },
+                    {
+                        "name": "苏菲·特纳 ",
+                        "role": "琴·格蕾",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/670a9142997a15f85bebc5a2bd3295f9.jpg"
+                    },
+                    {
+                        "name": "詹姆斯·麦卡沃伊",
+                        "role": "查尔斯教授",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fb1bf7f90c0bcaa22c2a2e7136e88d3b.jpg"
+                    },
+                    {
+                        "name": " 迈克尔·法斯宾德",
+                        "role": "万磁王埃里克·兰谢尔 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9f28549b0134f70a6d595735e7d43c84.jpg"
+                    },
+                    {
+                        "name": "詹妮弗·劳伦斯",
+                        "role": "魔形女",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a0649854a0f8220149ad335e52a928b.jpg"
+                    }
+                ],
+                "director": "西蒙·金伯格",
+                "category": "动作|科幻|冒险",
+                "synopsis": "影片剧情围绕X战警中最受欢迎成员之一的琴·葛蕾展开，讲述她逐渐转化为黑凤凰的故事。在一次危及生命的太空营救行动中，琴被神秘的宇宙力量击中，成为最强大的变种人。此后琴·葛蕾不仅要设法掌控日益增长、极不稳定的力量，更要与自己内心的恶魔抗争，她的失控让整个X战警大家庭分崩离析，也让整个星球陷入毁灭的威胁之中。《X战警：黑凤凰》是迄今为止气氛最紧张、情感最丰富的一部《X战警》电影，是《X战警》系列20年来的集大成之作，大家非常熟悉和热爱的变种人大家庭即将面对最为强大的敌人——而她恰恰还是他们中的一员。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1559779200,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4672,
+                "name": "大大哒",
+                "poster": "https://pic.maizuo.com/usr/movie/a74496f5da9c884b7b1e4c331112c770.jpg",
+                "actors": [{
+                        "name": "林宣妤 ",
+                        "role": "演员  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9fc5570edfce40a5cea9ed2eb8ade9a8.jpg"
+                    },
+                    {
+                        "name": "温慧茵",
+                        "role": "演员  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/eab3818ba249278f9e4241d1c2f4c66d.jpg"
+                    },
+                    {
+                        "name": "容璇雯",
+                        "role": "演员  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0fe5f60295774a3c7aea81e2546ad31e.jpg"
+                    },
+                    {
+                        "name": "狄妃",
+                        "role": "演员  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4d617633b3b529d97ea376182a29bc4b.jpg"
+                    }
+                ],
+                "director": "周青元",
+                "category": "剧情|喜剧",
+                "synopsis": "林满月是一个性格开朗，对生活持有乐观积极态度的小妞，她有着一群性格各异的好闺蜜。一次意外使她背上了不菲的债务。为了偿还债务，她被迫走上了成为“女神”的道路，不料换来的却是束缚和忧伤，逐渐失去亲情和友情…… 成为女神的林满月能否重拾初心，找回自己？闺蜜们又该何去何从？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": " 马来西亚",
+                "language": "汉语普通话  粤语",
+                "videoId": "",
+                "premiereAt": 1558656000,
+                "timeType": 3,
+                "runtime": 90,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 44
+    },
+    "msg": "ok"
+}
